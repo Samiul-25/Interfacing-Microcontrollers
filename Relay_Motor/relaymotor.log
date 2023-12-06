@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\Samiul Alim\Desktop\Lab\Problem 6\relaymotor.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Samiul Alim\Desktop\Lab\Problem 6\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "relaymotor.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	relaymotor.c
+diagnostics: 14	123	Compiled Successfully	relaymotor.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 37 (1%)  Free ROM (program words): 8155 (99%)	Used ROM (program words): 37 (1%)  Free ROM (program words): 8155 (99%)
+diagnostics: 0	125	Project Linked Successfully	relaymotor.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'relaymotor.mcppi' completed: 234 ms	 
+diagnostics: 0	103	Finished successfully: 28 Nov 2023, 07:42:27	relaymotor.mcppi

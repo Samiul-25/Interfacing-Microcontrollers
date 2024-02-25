@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"F:\8th semister\MicroContnroller\LAB\04.7Segmnt_2Digit\SevenSegment2digit.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"F:\8th semister\MicroContnroller\LAB\04.7Segmnt_2Digit\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "SevenSegment2digit.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	SevenSegment2digit.c
+diagnostics: 36	123	Compiled Successfully	SevenSegment2digit.c
+diagnostics: 0	127	All files Compiled in 31 ms	 
+hint: 0	1144	Used RAM (bytes): 22 (6%)  Free RAM (bytes): 330 (94%)	Used RAM (bytes): 22 (6%)  Free RAM (bytes): 330 (94%)
+hint: 0	1144	Used ROM (program words): 312 (4%)  Free ROM (program words): 7880 (96%)	Used ROM (program words): 312 (4%)  Free ROM (program words): 7880 (96%)
+diagnostics: 0	125	Project Linked Successfully	SevenSegment2digit.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'SevenSegment2digit.mcppi' completed: 187 ms	 
+diagnostics: 0	103	Finished successfully: 24 Aug 2023, 23:03:10	SevenSegment2digit.mcppi

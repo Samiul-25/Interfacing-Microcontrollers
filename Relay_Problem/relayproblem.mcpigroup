@@ -1,6 +1,0 @@
-[PROJECTS]
-Count=2
-Project0=..\Motor_Bidirection\biderectionmotor.mcppi
-Project1=relayproblem.mcppi
-[ActiveProject]
-Index=1

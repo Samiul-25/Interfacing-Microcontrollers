@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"F:\8th semister\MicroContnroller\LAB\05.7Segment_2digitButton\Sevvenseg2digitButton.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"F:\8th semister\MicroContnroller\LAB\05.7Segment_2digitButton\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Sevvenseg2digitButton.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Sevvenseg2digitButton.c
+diagnostics: 51	123	Compiled Successfully	Sevvenseg2digitButton.c
+hint: 8	1164	Variable 'leftDigit' has been eliminated by optimizer	Sevvenseg2digitButton.c
+diagnostics: 0	127	All files Compiled in 32 ms	 
+hint: 0	1144	Used RAM (bytes): 18 (5%)  Free RAM (bytes): 334 (95%)	Used RAM (bytes): 18 (5%)  Free RAM (bytes): 334 (95%)
+hint: 0	1144	Used ROM (program words): 337 (4%)  Free ROM (program words): 7855 (96%)	Used ROM (program words): 337 (4%)  Free ROM (program words): 7855 (96%)
+diagnostics: 0	125	Project Linked Successfully	Sevvenseg2digitButton.mcppi
+diagnostics: 0	128	Linked in 0 ms	 
+diagnostics: 0	129	Project 'Sevvenseg2digitButton.mcppi' completed: 188 ms	 
+diagnostics: 0	103	Finished successfully: 24 Aug 2023, 23:37:44	Sevvenseg2digitButton.mcppi
